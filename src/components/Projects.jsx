@@ -34,14 +34,22 @@ export default function Projects() {
                     <span className="text-orange-500 font-medium">
                       Tech-Stack:{" "}
                     </span>
-                    {item.tech}
+                    <span>{item.tech}</span>
                   </h3>
-                  <Link to={item.github} target="_blank">
-                    <GitHubIcon
-                      sx={{ fontSize: 24, color: "#fff", margin: "10px" }}
-                      className="hover:text-orange-500"
-                    />
-                  </Link>
+                  <div>
+                    <Link to={item.link} target="_blank">
+                      <OpenInNewIcon
+                        sx={{ fontSize: 24, color: "#fff", margin: "10px" }}
+                        className="hover:text-orange-500"
+                      />
+                    </Link>
+                    <Link to={item.github} target="_blank">
+                      <GitHubIcon
+                        sx={{ fontSize: 24, color: "#fff", margin: "10px" }}
+                        className="hover:text-orange-500"
+                      />
+                    </Link>
+                  </div>
                 </div>
               </div>
             </div>

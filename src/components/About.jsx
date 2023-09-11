@@ -1,6 +1,6 @@
 import React from "react";
 import Skills from "./Skills";
-import resume from "../assets/Resume.pdf";
+import resume from "../assets/Ashish's Resume.pdf";
 
 const About = () => {
   return (
