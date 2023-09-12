@@ -9,7 +9,7 @@ import marketing from "../assets/MarketingInsight.png";
 export const project = [
   {
     title: "Marketing Insights for CodeX",
-    tech: "Power-BI Power-Query ",
+    tech: "Power-BI, Power-Query ",
     img: marketing,
     link: "https://app.powerbi.com/view?r=eyJrIjoiODM5OGQxMGMtM2I1Yi00YjUyLWIyNWMtNjY1ODExNDY5NTY3IiwidCI6IjRiMzIwNjdmLTNjZjYtNDQwZi1hNGNjLWZhZjk0MmVlOWZjMSJ9",
     github:
@@ -17,7 +17,7 @@ export const project = [
   },
   {
     title: "T20 Cricket Players Analysis",
-    tech: "Power-BI Power-Query ",
+    tech: "Power-BI, Power-Query ",
     img: t20,
     link: "https://app.powerbi.com/view?r=eyJrIjoiOTRmMDY0ZjItMTk0Ny00MmUzLTkzY2ItNWNmN2RjYjhlODc2IiwidCI6IjRiMzIwNjdmLTNjZjYtNDQwZi1hNGNjLWZhZjk0MmVlOWZjMSJ9",
     github:
@@ -33,7 +33,7 @@ export const project = [
   },
   {
     title: "Data Professional Survey",
-    tech: "Power-BI Power-Query ",
+    tech: "Power-BI, Power-Query ",
     img: project1,
     link: "https://app.powerbi.com/view?r=eyJrIjoiYjIwNmY2YTUtNGJjNy00MjhlLTkyOGMtZTMzN2RlNzM3MDFlIiwidCI6IjRiMzIwNjdmLTNjZjYtNDQwZi1hNGNjLWZhZjk0MmVlOWZjMSJ9",
     github:
